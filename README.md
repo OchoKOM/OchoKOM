@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OchoKOM
+- 👋 Hi, I’m Martin Ocho
 - 👀 I’m interested in web developpement
 - 🌱 I’m currently learning javascript
 
