@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin Ocho
-- 👀 I’m interested in web developpement
-- 🌱 I’m currently learning javascript
+- 💻 I’m in web and mobile developpement
+- ☺️ I’m interested in learning new things 
 
 <!---
 OchoKOM/OchoKOM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
